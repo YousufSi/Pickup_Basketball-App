@@ -1,11 +1,11 @@
-# Pickup
+# Swish
 
-**Pickup** is a networking app that helps basketball players easily find and join local games. 
-Instead of relying on scattered group chats, Pickup provides a streamlined way to create, 
+**Swish** is a networking app that helps basketball players easily find and join local games. 
+Instead of relying on scattered group chats, Swish provides a streamlined way to create, 
 discover, and fill teams for casual basketball sessions.
 
 ## Features
-- Create or join pickup basketball games in real time
+- Create or join swish basketball games in real time
 - See player counts and open spots before committing
 - Simple interface for organizing full teams or drop-in runs
 - Focused on spontaneity — play anytime, without hassle
@@ -33,7 +33,7 @@ This project uses the following environment variables (do not commit `.env`):
 
 ## Project Structure
 ```
-pickup-app/
+swish-app/
   App.js
   package.json
   .gitignore
@@ -42,6 +42,6 @@ pickup-app/
 ```
 
 ## Purpose
-Pickup was built to solve a common community problem: 
+Swish was built to solve a common community problem: 
 the difficulty of quickly finding enough players for a game. 
 This project combines clean UI design with backend integration to make organizing basketball games effortless.
